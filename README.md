@@ -7,5 +7,6 @@ The initial Data we have taken is German-English website parallel corpus from th
 Initially it was in .tmx file and most of the things were irrelevent.So we need to clean up the data.
 
 Only the 'seg' tag was needed , So we scrap out this tag.
-
-![alt tag](Screenshot from 2020-03-03 19-22-12.png)
+<br>
+<img height="500" src="https://github.com/tammy3107/german_to_english_translator/blob/master/Screenshot%20from%202020-03-03%2019-22-12.png"/>
+<br>
